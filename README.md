@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning SecGPT
 - 👯 I’m looking to collaborate on SecGPT
 - 💬 Ask me about SecGPT
-- ⚡ [SecGPT](https://secgpt.github.io/secgpt/)
+- ⚡ [SecGPT](https://secgpt.github.io/)
 
 <!--
 Here are some ideas to get you started:
